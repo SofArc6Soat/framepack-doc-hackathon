@@ -18,7 +18,7 @@ Este projeto contém a documentação completa do sistema Framepack-Hackathon, a
 
 Domain Storytelling é uma técnica de modelagem colaborativa que utiliza histórias para descrever processos de negócios e requisitos de sistemas. Através de narrativas, os participantes podem compartilhar conhecimento e alinhar entendimentos sobre o domínio do problema.
 
-Para visualizar o Domain Storytelling deste projeto, abra o arquivo `Framepack-Hackathon_2025-01-08.png` localizado no diretório `src\domain-storytelling`.
+Para visualizar o Domain Storytelling deste projeto, abra o arquivo [Framepack-Hackathon_2025-01-08.png](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/domain-storytelling/Framepack-Hackathon_2025-01-08.png).
 
 ## Context Map
 
