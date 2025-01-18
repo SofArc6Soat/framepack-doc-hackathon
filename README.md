@@ -34,4 +34,4 @@ Event Storming é uma técnica de modelagem colaborativa que utiliza eventos par
 
 ## Links Úteis
 
-- **Miro - Domain Storytelling, Context Map, Linguagem Ubíqua e Event Storming**: [Link para o Event Storming](https://miro.com/app/board/uXjVKST91sw=/)
+- **Miro - Domain Storytelling, Context Map, Linguagem Ubíqua e Event Storming**: [Link para o Event Storming](https://miro.com/app/board/uXjVLwWjWG4=/)
