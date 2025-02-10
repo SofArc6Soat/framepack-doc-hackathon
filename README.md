@@ -1,37 +1,62 @@
-# doc-framepack-hackathon
-
-## Índice
-- [Documentação do Projeto](#documentação-do-projeto)
-  - [Domain Storytelling](#domain-storytelling)
-  - [Context Map](#context-map)
-  - [Linguagem Ubíqua](#linguagem-ubíqua)
-  - [Event Storming](#event-storming)
-  - [Links Úteis](#links-úteis)
+- [Documentação do Projeto Framepack-Hackathon](#documentação-do-projeto-framepack-hackathon)
+  - [📌 Domain Storytelling](#-domain-storytelling)
+  - [📌 Context Map, Linguagem Ubíqua e Event Storming](#-context-map-linguagem-ubíqua-e-event-storming)
+    - [🔹 Context Map](#-context-map)
+    - [🔹 Linguagem Ubíqua](#-linguagem-ubíqua)
+    - [🔹 Event Storming](#-event-storming)
+  - [📌 Arquitetura](#-arquitetura)
+  - [📌 Coleção Postman](#-coleção-postman)
 
 ---
 
-# Documentação do Projeto
+# Documentação do Projeto Framepack-Hackathon
 
-Este projeto contém a documentação completa do sistema Framepack-Hackathon, abordando técnicas de modelagem colaborativa e ferramentas visuais para entender e definir os requisitos e comportamentos do sistema.
+Este repositório contém a documentação completa do sistema Framepack-Hackathon, abordando técnicas de modelagem colaborativa, ferramentas visuais para entender e definir os requisitos e comportamentos do sistema.
 
-## Domain Storytelling
+Este documento fornece uma visão geral das técnicas e ferramentas utilizadas no projeto Framepack-Hackathon, garantindo uma abordagem colaborativa e estruturada para a modelagem de requisitos, design da arquitetura e testes da API.
+
+Se precisar de mais informações, acesse os arquivos do repositório ou entre em contato com a equipe do projeto.
+
+## 📌 Domain Storytelling
 
 Domain Storytelling é uma técnica de modelagem colaborativa que utiliza histórias para descrever processos de negócios e requisitos de sistemas. Através de narrativas, os participantes podem compartilhar conhecimento e alinhar entendimentos sobre o domínio do problema.
 
-Para visualizar o Domain Storytelling deste projeto, abra o arquivo [Framepack-Hackathon_2025-01-08.png](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/domain-storytelling/Framepack-Hackathon_2025-01-08.png).
+Para visualizar o Domain Storytelling deste projeto, acesse a imagem:
 
-## Context Map
+📄 [Framepack-Hackathon_2025-01-08.png](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/domain-storytelling/Framepack-Hackathon_2025-01-08.png)
 
-Context Map é uma ferramenta visual que ajuda a entender e definir os limites entre diferentes contextos de um sistema. Ele mostra como os diferentes contextos se relacionam e interagem, facilitando a identificação de responsabilidades e dependências.
+---
 
-## Linguagem Ubíqua
+## 📌 Context Map, Linguagem Ubíqua e Event Storming
 
-Linguagem Ubíqua é uma linguagem comum utilizada por todos os membros de uma equipe de desenvolvimento para garantir uma comunicação clara e eficiente. Ela é composta por termos e conceitos que são compreendidos por todos, desde desenvolvedores até stakeholders, promovendo um entendimento compartilhado do domínio do problema.
+### 🔹 Context Map
+O Context Map é uma ferramenta visual que ajuda a entender e definir os limites entre diferentes contextos de um sistema. Ele mostra como os diferentes contextos se relacionam e interagem, facilitando a identificação de responsabilidades e dependências.
 
-## Event Storming
+### 🔹 Linguagem Ubíqua
+A Linguagem Ubíqua é um conjunto de termos e conceitos compartilhados entre todos os membros da equipe de desenvolvimento, promovendo uma comunicação clara e eficiente entre desenvolvedores, designers e stakeholders.
 
-Event Storming é uma técnica de modelagem colaborativa que utiliza eventos para explorar e entender o comportamento de um sistema. Durante uma sessão de Event Storming, os participantes identificam e discutem eventos importantes que ocorrem no sistema, ajudando a revelar fluxos de trabalho, interações e possíveis problemas.
+### 🔹 Event Storming
+O Event Storming é uma técnica de modelagem colaborativa que utiliza eventos para explorar e entender o comportamento do sistema. Durante as sessões de Event Storming, os participantes identificam e discutem eventos importantes, ajudando a revelar fluxos de trabalho, interações e possíveis problemas.
 
-## Links Úteis
+📌 Para visualizar esses modelos, acesse o Miro:
+👉 [Miro Board](https://miro.com/app/board/uXjVLwWjWG4=/)
 
-- **Miro - Domain Storytelling, Context Map, Linguagem Ubíqua e Event Storming**: [Link para o Event Storming](https://miro.com/app/board/uXjVLwWjWG4=/)
+---
+
+## 📌 Arquitetura
+
+A arquitetura do projeto está representada graficamente no seguinte diagrama:
+
+📄 [Arquitetura.drawio.png](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/arquitetura/Arquitetura.drawio.png)
+
+Este diagrama representa a estrutura do sistema, suas camadas e interações entre os componentes.
+
+---
+
+## 📌 Coleção Postman
+
+Para testar a API da aplicação utilizando o Postman, utilize a coleção disponível no repositório:
+
+📄 [Framepack - Api.postman_collection.json](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/postman/Framepack%20-%20Api.postman_collection.json)
+
+Com essa coleção, é possível realizar requisições aos endpoints e validar o funcionamento do sistema.
