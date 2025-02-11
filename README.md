@@ -1,10 +1,10 @@
 - [Documentação do Projeto Framepack-Hackathon](#documentação-do-projeto-framepack-hackathon)
   - [📌 Domain Storytelling](#-domain-storytelling)
-  - [📌 Context Map, Linguagem Ubíqua e Event Storming](#-context-map-linguagem-ubíqua-e-event-storming)
     - [🔹 Linguagem Ubíqua](#-linguagem-ubíqua)
     - [🔹 Event Storming](#-event-storming)
   - [📌 Arquitetura](#-arquitetura)
   - [📌 Coleção Postman](#-coleção-postman)
+  - [📌 Coverage](#-coverage)
 
 ---
 
@@ -54,3 +54,12 @@ Para testar a API da aplicação utilizando o Postman, utilize a coleção dispo
 📄 [Framepack - Api.postman_collection.json](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/postman/Framepack%20-%20Api.postman_collection.json)
 
 Com essa coleção, é possível realizar requisições aos endpoints e validar o funcionamento do sistema.
+
+---
+
+## 📌 Coverage
+
+Todos os relatórios de coverage estão disponíveis em:
+
+📄 [WebApi](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/framepack-api-hackathon-coverageReport/)
+📄 [Worker](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/framepack-worker-hackathon-coverageReport/)
