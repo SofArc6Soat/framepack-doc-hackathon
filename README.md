@@ -1,7 +1,6 @@
 - [Documentação do Projeto Framepack-Hackathon](#documentação-do-projeto-framepack-hackathon)
   - [📌 Domain Storytelling](#-domain-storytelling)
   - [📌 Context Map, Linguagem Ubíqua e Event Storming](#-context-map-linguagem-ubíqua-e-event-storming)
-    - [🔹 Context Map](#-context-map)
     - [🔹 Linguagem Ubíqua](#-linguagem-ubíqua)
     - [🔹 Event Storming](#-event-storming)
   - [📌 Arquitetura](#-arquitetura)
@@ -26,11 +25,6 @@ Para visualizar o Domain Storytelling deste projeto, acesse a imagem:
 📄 [Framepack-Hackathon_2025-01-08.png](https://github.com/SofArc6Soat/framepack-doc-hackathon/blob/main/src/domain-storytelling/Framepack-Hackathon_2025-01-08.png)
 
 ---
-
-## 📌 Context Map, Linguagem Ubíqua e Event Storming
-
-### 🔹 Context Map
-O Context Map é uma ferramenta visual que ajuda a entender e definir os limites entre diferentes contextos de um sistema. Ele mostra como os diferentes contextos se relacionam e interagem, facilitando a identificação de responsabilidades e dependências.
 
 ### 🔹 Linguagem Ubíqua
 A Linguagem Ubíqua é um conjunto de termos e conceitos compartilhados entre todos os membros da equipe de desenvolvimento, promovendo uma comunicação clara e eficiente entre desenvolvedores, designers e stakeholders.
